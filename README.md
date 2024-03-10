@@ -1,2 +1,2 @@
-# lolcorder
- 리그오브레전드 recorder
+# Necorder
+ 갑자기 무섭게 반전되는 기괴한 녹화장치
