@@ -10,3 +10,4 @@ Necorder는 갑자기 무섭게 반전되는 기괴한 녹화장치입니다.
 ## 스크린샷
 
 [동영상]
+![record](https://github.com/wgdcwd/Necorder/assets/86083157/18edd749-dd92-4de2-81a3-a77bc6c788a0)
